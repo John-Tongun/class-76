@@ -1,5 +1,5 @@
 /*
-    Author: Cristian Camilo Cortes Ortiz <Cristianco9>
+    Author: John Tongun Wani <John Tongun Wani>
     Problem: Weekly Expense Report (With Day Names)
 */
 
